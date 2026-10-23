@@ -37,3 +37,28 @@ Manual test outcomes are in `tests/test-results.md`: T1–T3 passed, T4 user-con
 - `evidence-log.md`: public context, assumptions and observed prototype evidence
 - `tests/test-results.md`: manual test log
 - `src/`: React prototype source
+## Task 2 - 2030 CSE Curriculum Redesign
+
+**Objective:** Propose a future-ready CSE curriculum aligned with Full-Stack Software Engineering and AI/ML career pathways.
+
+### Deliverables
+
+- `Task2-Curriculum-Redesign/curriculum-baseline.md` - curriculum baseline and scope
+- `Task2-Curriculum-Redesign/course-credit-audit.csv` - course and credit audit
+- `Task2-Curriculum-Redesign/job-description-comparison.md` - comparison of three employer postings
+- `Task2-Curriculum-Redesign/curriculum-redesign-proposal.md` - proposed curriculum changes and five AI exercises
+- `Task2-Curriculum-Redesign/course-change-register.md` - existing courses, proposed changes, and credit treatment
+- `Task2-Curriculum-Redesign/batch-specific-credit-notes.md` - batch-specific evidence and credit verification notes
+
+### Evidence and limitations
+
+The course-credit audit uses the available programme screenshots and student-provided ERP information. Semester VII contains five registered courses totalling 16 credits. Semester VIII is described as internship-only, with 15 credits used as a provisional estimate pending official verification.
+
+The final degree-credit requirement and the final percentage of credits formally redesigned remain unverified. No unsupported final percentage is claimed.
+
+### Career pathways
+
+- Full-Stack Software Engineer
+- AI/ML Engineer
+
+The proposal emphasises practical software development, testing, deployment, machine learning evaluation, responsible AI, and an integrated capstone project.

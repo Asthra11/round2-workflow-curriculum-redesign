@@ -1,0 +1,52 @@
+Semester,Course Code,Course Title,L,T,P,Credits,Course Type,Verification Notes
+I,EG101,English Language Skills,2.0,0.0,2.0,3.0,Core,Visible in supplied screenshot
+I,ES101,Engineering Graphics,1.0,0.0,4.0,3.0,Core,Visible in supplied screenshot
+I,BS101,Chemistry,2.0,1.0,2.0,4.0,Core,Visible in supplied screenshot
+I,HS101,Understanding India,0.0,0.0,0.0,0.0,Core/Non-credit,Visible in supplied screenshot
+I,BS102,Physics,2.0,1.0,2.0,4.0,Core,Visible in supplied screenshot
+I,BS103,Linear Algebra and Ordinary Differential Equations,2.0,1.0,0.0,3.0,Core,Visible in supplied screenshot
+I,ES105,Computer Programming,2.0,0.0,4.0,4.0,Core,Visible in supplied screenshot
+II,EG102,Professional Communication,2.0,1.0,0.0,3.0,Core,Visible in supplied screenshot
+II,ES102,Digital Fabrication,1.0,1.0,2.0,3.0,Core,Visible in supplied screenshot
+II,ES103,Environmental Sciences,2.0,0.0,0.0,2.0,Core,Visible in supplied screenshot
+II,ES104,Basic Electronics,2.0,1.0,2.0,4.0,Core,Visible in supplied screenshot
+II,BS104,Higher Calculus,2.0,1.0,0.0,3.0,Core,Visible in supplied screenshot
+II,ES106,Data Structures,2.0,0.0,4.0,4.0,Core,Visible in supplied screenshot
+II,ES107,Introduction to DS and AI,2.0,1.0,0.0,3.0,Core,Visible in supplied screenshot
+III,MG201,Engineering Economics and Management,2.0,1.0,0.0,3.0,Core,Visible in supplied screenshot
+III,BS105,Probability & Statistics,2.0,1.0,0.0,3.0,Core,Visible in supplied screenshot
+III,ES201,Object Oriented Programming Concepts,2.0,0.0,4.0,4.0,Core,Visible in supplied screenshot
+III,CR201,Power Skills - I,0.0,0.0,2.0,1.0,Core/Skills,Visible in supplied screenshot
+III,CS201,Introduction to IoT,2.0,0.0,2.0,3.0,Core,Visible in supplied screenshot
+III,CS204,Design and Analysis of Algorithms,3.0,0.0,0.0,3.0,Core,Visible in supplied screenshot
+III,CS205,Operating Systems,3.0,0.0,2.0,4.0,Core,Visible in supplied screenshot
+III,CS210,Theory of Computation,3.0,0.0,0.0,3.0,Core,Visible in supplied screenshot
+IV,HSXXX,Digital Humanities Elective,3.0,0.0,0.0,3.0,Elective,Visible in supplied screenshot; code shown as HSXXX
+IV,CR202,Power Skills - II,0.0,0.0,2.0,1.0,Core/Skills,Visible in supplied screenshot
+IV,ES202,Industry Coding Practices,2.0,1.0,2.0,4.0,Core,Visible in supplied screenshot
+IV,CS202,Database Management System,2.0,1.0,2.0,4.0,Core,Visible in supplied screenshot
+IV,CS203,Artificial Intelligence,3.0,0.0,0.0,3.0,Core,Visible in supplied screenshot
+IV,CS206,Computer Organization and Architecture,3.0,0.0,0.0,3.0,Core,Visible in supplied screenshot
+IV,CS207,Discrete Mathematics,2.0,1.0,0.0,3.0,Core,Visible in supplied screenshot
+IV,CS208,Web Enabled Technologies,2.0,1.0,2.0,4.0,Core,Visible in supplied screenshot
+V,HS301,Constitution of India,0.0,0.0,0.0,0.0,Core/Non-credit,Screenshot includes # marker; confirm requirements
+V,XXXX,Elective-I,3.0,0.0,0.0,3.0,Elective,Code shown as XXXX on page
+V,CR301,Power Skills - III,0.0,0.0,2.0,1.0,Core/Skills,Visible in supplied screenshot
+V,CS301,Principles of Cryptography,3.0,0.0,0.0,3.0,Core,Visible in supplied screenshot
+V,CS302,Computer Networks,3.0,0.0,2.0,4.0,Core,Visible in supplied screenshot
+V,CS303,Programming Language and Compiler Construction,3.0,0.0,0.0,3.0,Core,Visible in supplied screenshot
+V,CS304,Machine Learning,3.0,0.0,2.0,4.0,Core,Visible in supplied screenshot
+V,CS305,Software Engineering,3.0,0.0,0.0,3.0,Core,Visible in supplied screenshot
+VI,SP301,Special Project,0.0,0.0,6.0,3.0,Project,Visible in supplied screenshot
+VI,DSXX,Elective-II,3.0,0.0,0.0,3.0,Elective,Code shown as DSXX on page
+VI,CR302,Power Skills - IV,0.0,0.0,2.0,1.0,Core/Skills,Visible in supplied screenshot
+VI,CS307,Computer Vision,3.0,0.0,0.0,3.0,Core,Visible in supplied screenshot
+VI,CS308,Big Data Systems,3.0,0.0,0.0,3.0,Core,Visible in supplied screenshot
+VI,CS309,Cloud Computing,3.0,0.0,2.0,4.0,Core,Visible in supplied screenshot
+VI,CS311,Software Testing,3.0,0.0,0.0,3.0,Core,Visible in supplied screenshot
+VII,CS415,Ethical Hacking,,,,3.0,Registered course,Course code and 3 credits confirmed from student-provided ERP screenshot. Semester VII total: 16 credits.
+VII,DS306,Deep Learning,,,,4.0,Registered course,Course code and 4 credits confirmed from student-provided ERP screenshot. Semester VII total: 16 credits.
+VII,DS311,Natural Language Processing,,,,3.0,Registered course,Course code and 3 credits confirmed from student-provided ERP screenshot. Semester VII total: 16 credits.
+VII,DS401,Human Computer Interaction,,,,3.0,Registered course,Course code and 3 credits confirmed from student-provided ERP screenshot. Semester VII total: 16 credits.
+VII,MG401,Introduction to Entrepreneurship,,,,3.0,Registered course,Course code and 3 credits confirmed from student-provided ERP screenshot. Semester VII total: 16 credits.
+VIII,,Internship,,,,15.0,Internship (provisional),"Student states Semester VIII is internship-only with no regular subjects. 15 credits are a provisional planning estimate, not yet officially verified."
