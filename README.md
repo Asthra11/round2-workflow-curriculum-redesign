@@ -62,3 +62,7 @@ The final degree-credit requirement and the final percentage of credits formally
 - AI/ML Engineer
 
 The proposal emphasises practical software development, testing, deployment, machine learning evaluation, responsible AI, and an integrated capstone project.
+## Final Review Revision
+
+- **GitHub release:** https://github.com/Asthra11/round2-workflow-curriculum-redesign/releases/tag/round2-final
+- **Full commit:** https://github.com/Asthra11/round2-workflow-curriculum-redesign/commit/f9a5e00f488bf7d69da6f6532f8269caa4512726
